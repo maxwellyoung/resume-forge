@@ -18,7 +18,7 @@ export default function About() {
             >
               About
             </Link>
-            <Link
+            {/* <Link
               href="/templates"
               className="hover:text-blue-400 transition-colors"
             >
@@ -29,7 +29,7 @@ export default function About() {
               className="hover:text-blue-400 transition-colors"
             >
               Pricing
-            </Link>
+            </Link> */}
           </nav>
         </div>
       </header>
